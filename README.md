@@ -30,7 +30,13 @@ Reshai.by — это онлайн-сервис для школьников, ко
 1. [Архитектура](#Архитектура)
 
    1. [C4-модель](#C4-модель)
-   2. [Схема данных](#Схема_данных)
+      
+   3. Контейнерный уровень архитектуры ПС <img width="468" height="200" alt="image" src="https://github.com/user-attachments/assets/d9503c22-1168-4ad5-aed8-b8641f372847" />
+Компонентный уровень архитектуры ПС <img width="462" height="152" alt="image" src="https://github.com/user-attachments/assets/9d40ad72-7c09-459b-8aa9-e2a15ab86c68" />
+<img width="417" height="349" alt="image" src="https://github.com/user-attachments/assets/08e0625d-db59-4fa1-b704-3097de03e9ae" />
+<img width="468" height="226" alt="image" src="https://github.com/user-attachments/assets/89ba8faa-83db-4d47-8700-d043f3349515" />
+<img width="295" height="299" alt="image" src="https://github.com/user-attachments/assets/0ae09b02-e868-4597-a331-080df7d4f401" />
+   4. [Схема данных](#Схема_данных)
 2. [Функциональные возможности](#Функциональные_возможности)
 
    1. [Диаграмма вариантов использования](#Диаграмма_вариантов_использования)
@@ -154,3 +160,9 @@ Reshai.by — это онлайн-сервис для школьников, ко
        Артамонов А. А.
 
 ---
+<img width="468" height="200" alt="image" src="https://github.com/user-attachments/assets/d9503c22-1168-4ad5-aed8-b8641f372847" />
+<img width="462" height="152" alt="image" src="https://github.com/user-attachments/assets/9d40ad72-7c09-459b-8aa9-e2a15ab86c68" />
+<img width="417" height="349" alt="image" src="https://github.com/user-attachments/assets/08e0625d-db59-4fa1-b704-3097de03e9ae" />
+<img width="468" height="226" alt="image" src="https://github.com/user-attachments/assets/89ba8faa-83db-4d47-8700-d043f3349515" />
+<img width="295" height="299" alt="image" src="https://github.com/user-attachments/assets/0ae09b02-e868-4597-a331-080df7d4f401" />
+
